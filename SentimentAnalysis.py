@@ -1,3 +1,5 @@
+#Link to glove: https://drive.google.com/file/d/1HQkNHSrtJl23T9ihgHT6t4B5rWFMzRwA/view?usp=share_link
+
 #importing necessary libraries
 import pandas as pd
 import numpy as np
